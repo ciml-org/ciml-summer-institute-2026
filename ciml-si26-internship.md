@@ -2,9 +2,9 @@
 
 We are looking for undergraduate volunteers to assist during the sessions for our two Summer Institutes. Volunteers may assist during both sessions:
 * The CIML 2026 Summer Institute (https://github.com/ciml-org/ciml-summer-institute-2026/blob/main/ciml-si26-internship.md).
-  ** CIML Dates: Tuesday, June 23, 2026 - Thursday, June 25, 2026
+   * CIML Dates: Tuesday, June 23, 2026 - Thursday, June 25, 2026
 * The SDSC Summer Institute 2026 (see agenda) (https://github.com/ciml-org/ciml-summer-institute-2026/blob/main/ciml-si26-internship.md). 
-  ** Thursday, July 23, 2026 – Tuesday, August 4, 2026 (see the agenda for the day-by-day schedule).
+   * Thursday, July 23, 2026 – Tuesday, August 4, 2026 (see the agenda for the day-by-day schedule).
 
 
 ## Volunteer responsibilities
