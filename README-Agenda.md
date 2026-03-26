@@ -27,9 +27,11 @@ To work with the material, remember to CLONE this repo.
   <hr>
 
 ## Agenda:<a name="agenda"></a>
+
 All times are in Pacific time.
 
 ##Agenda
+
 Agenda is subject to change. Times listed below are in Pacific.
 
 ###Tuesday, June 16 - Preparation Day (virtual)<a name="agenda-prep"></a>
