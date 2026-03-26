@@ -1,5 +1,5 @@
 # Internship Opportunity for Undergraduate Student Volunteers
-
+ 
 We are looking for undergraduate volunteers to assist during the sessions for our two Summer Institutes. Volunteers may assist during both sessions:
 * The CIML 2026 Summer Institute (https://github.com/ciml-org/ciml-summer-institute-2026/blob/main/ciml-si26-internship.md).
    * CIML Dates: Tuesday, June 23, 2026 - Thursday, June 25, 2026
