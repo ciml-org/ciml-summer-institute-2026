@@ -12,10 +12,10 @@ Repository for the CIML 2025 Summer Institute training materials.
 ### <a name="top">**Contents:**
 * [Description](#description)
 * [Agenda](#agenda)
-  * [Tuesday, June 17 – Preparation Day](#agenda-prep)
-  * [Tuesday, June 24 - HPC & Parallel Concepts](#agenda-hpc-pc)
-  * [Wednesday, June 25 - Deep Learning](#agenda-deep-learning)
-  * [Thursday, June 26 - Scalable Machine Learning & Large Language Model](#agenda-scalable-ml-LLM)
+  * [Tuesday, June 16 – Preparation Day](#agenda-prep)
+  * [Tuesday, June 25 - HPC & Parallel Concepts](#agenda-hpc-pc)
+  * [Wednesday, June 26 - Deep Learning](#agenda-deep-learning)
+  * [Thursday, June 27 - Scalable Machine Learning & Large Language Model](#agenda-scalable-ml-LLM)
 * [Instructors](#instructors)
 * All presentations are located in this repository.
 
@@ -29,18 +29,19 @@ To work with the material, remember to CLONE this repo.
 ## Agenda:<a name="agenda"></a>
 All times are in Pacific time.
 
-
-Agenda
+##Agenda
 Agenda is subject to change. Times listed below are in Pacific.
-Tuesday, June 16 - Preparation Day (virtual)
+
+###Tuesday, June 16 - Preparation Day (virtual)<a name="agenda-prep"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
 | 9:00 am - 9:30 am | 1.1. Welcome & Orientation | Cindy Wong, Events Specialist; Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
 | 9:30 am – 10:00 am | 1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
 
-------------------------------
-Tuesday, June 25 - HPC/Parallel Concepts (in person)
+[Back to Top](#top)
+
+### Tuesday, June 25 - HPC/fParallel Concepts (in person)<a name="agenda-hpc-pc"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
@@ -56,8 +57,9 @@ Tuesday, June 25 - HPC/Parallel Concepts (in person)
 | 4:00 pm - 5:30 pm | 2.6 Software Containers for Scientific and High-Performance Computing Singularity is an open-source container engine designed to bring operating system-level virtualization to scientific and high-performance computing. With Singularity you can package complex computational workflows --- software applications, libraries, and data --- in a simple, portable, and reproducible way, which can then be run almost anywhere. | Marty Kandes, Computational and Data Science Research Specialist |
 | 5:30 PM – 5:45 PM | Q&A, Wrap-up | |
 
-------------------------------
-Wednesday, June 26 - Deep Learning (in person)
+[Back to Top](#top)
+
+### Wednesday, June 26 - Deep Learning (in person)<a name="agenda-deep-learning"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
@@ -72,8 +74,9 @@ Wednesday, June 26 - Deep Learning (in person)
 | 3:45 pm - 4:00 pm | Break | |
 | 4:00 pm - 5:30 pm | 3.6 Deep Learning – Special Connections and Transformers The architecture of many networks use paths and connections in flexible ways; we will review gate, skip, and residual connections and get some intuition about transformers. | Paul Rodriguez, Computational Data Scientist |
 
-------------------------------
-Thursday, June 27 - Scalable ML & Large Language Models (in person)
+[Back to Top](#top)
+
+###Thursday, June 27 - Scalable ML & Large Language Models (in person)<a name="agenda-scalable-ml-LLM"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
@@ -87,8 +90,20 @@ Thursday, June 27 - Scalable ML & Large Language Models (in person)
 | 1:45 pm - 3:00 pm | 4.4 LLM Overview Introduction to Large Language Models and how they can be used to support research. | Mai Nguyen, Paul Rodriguez, Mary Thomas |
 | 3:00 pm - 3:15 pm | Break | |
 | 3:15 pm - 4:45 pm | 4.4 LLM Overview - Continued | Mai Nguyen and Paul Rodriguez |
-| 4:45 pm - 5:15 pm | NAIRR Introduction | |
+| 4:45 pm - 5:15 pm | NAIRR Introduction | Mary Thomas |
 | 5:15 pm - 5:30 pm | Closing Remarks | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
+
+[Back to Top](#top)
+
+### CIML Instructors<a name="instructors"></a>
+| **Name** | **Title** | **Email** |
+| -------------------- | ----------- | ----------- |
+| [Andreas Goetz, Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html)   |  Research Scientist, Principal Investigator  | awgoetz at ucsd.edu |
+| [Mai Nguyen Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  Lead for Data Analytics |   mhnguyen at ucsd.edu |
+| [Marty Kandes Ph.D.](https://www.linkedin.com/in/marty-kandes-b53a34144) |  Computational and Data Science Research Specialist |      mkandes at ucsd.edu |
+| [Mary Thomas Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |  Director of CIML, Computational Data Scientist, HPC Trainer  |   mpthomas at ucsd.edu |
+| [Paul Rodriguez Ph.D.](https://profiles.ucsd.edu/paul.rodriguez)      |  Computational Data Scientist |       p4rodriguez at ucsd.edu |
+| [Robert Sinkovits Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html)  |  Expanse co-PI & Project Manager  |     rssinkovits at ucsd.edu |
 
 ------------------------------
 Contact Us: For inquiries, feel free to contact events@sdsc.edu.
