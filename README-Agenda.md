@@ -12,10 +12,10 @@ Repository for the CIML 2025 Summer Institute training materials.
 ### <a name="top">**Contents:**
 * [Description](#description)
 * [Agenda](#agenda)
-  * [Tuesday, June 16 – Preparation Day](#agenda-prep)
-  * [Tuesday, June 25 - HPC & Parallel Concepts](#agenda-hpc-pc)
-  * [Wednesday, June 26 - Deep Learning](#agenda-deep-learning)
-  * [Thursday, June 27 - Scalable Machine Learning & Large Language Model](#agenda-scalable-ml-LLM)
+  * [Tuesday, June 16 – Preparation Day (virtual)](#agenda-prep)
+  * [Tuesday, June 25 - HPC & Parallel Concepts (in-person)](#agenda-hpc-pc)
+  * [Wednesday, June 26 - Deep Learning (in-person)](#agenda-deep-learning)
+  * [Thursday, June 27 - Scalable Machine Learning & Large Language Models (in-person)](#agenda-scalable-ml-LLM)
 * [Instructors](#instructors)
 * All presentations are located in this repository.
 
