@@ -34,7 +34,7 @@ All times are in Pacific time.
 
 Agenda is subject to change. Times listed below are in Pacific.
 
-###Tuesday, June 16 - Preparation Day (virtual)<a name="agenda-prep"></a>
+###Tuesday, June 16 - Preparation Day (virtual) <a name="agenda-prep"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
