@@ -41,7 +41,7 @@ Agenda is subject to change. Times listed below are in Pacific.
 
 [Back to Top](#top)
 
-### Tuesday, June 25 - HPC/fParallel Concepts (in person)<a name="agenda-hpc-pc"></a>
+### Tuesday, June 25 - HPC/Parallel Concepts (in person)<a name="agenda-hpc-pc"></a>
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
