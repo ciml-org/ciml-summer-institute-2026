@@ -48,7 +48,7 @@ Agenda is subject to change. Times listed below are in Pacific.
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
 | 8:00 - 8:30 am | Light Breakfast & Check-in | |
-| 8:30 - 9:30 am | 2.1 Welcome and Introductions | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
+| 8:30 - 9:30 am | 2.1 Welcome and Introductions | Mary Thomas |
 | 9:30 am - 9:45 am | Break | |
 | 9:45 am - 10:45 am | 2.2 Parallel Computing Concepts We will cover supercomputer architectures, the differences between threads and processes, implementations of parallelism (e.g., OpenMP and MPI), strong and weak scaling, limitations on scalability (Amdahl's and Gustafson's Laws) and benchmarking. | Mary Thomas |
 | 10:45 am - 11:45 am | 2.3 Getting Started with Batch Job Scheduling Batch job schedulers are used to manage and fairly distribute the shared resources of high-performance computing (HPC) systems. Learning how to interact with them and compose your work into batch jobs is essential to becoming an effective HPC user. | Marty Kandes |
@@ -69,7 +69,7 @@ Agenda is subject to change. Times listed below are in Pacific.
 | 8:30 am - 10:00 am | 3.1 Introduction to Neural Networks and Convolution Neural Networks An overview of the main concepts of neural networks and feature discovery; the basic convolution neural network for digit recognition | Paul Rodriguez |
 | 10:00 am - 10:15 am | Break | |
 | 10:15 am - 11:30 am | 3.2 Practical Guidelines for Training Deep Learning on HPC Guidelines on running deep networks on Expanse, such as using notebooks, and batch jobs; also some discussion of multinode execution. | Paul Rodriguez |
-| 11:30 am - 12:00 pm | 3.3 Experiment Tracking We will cover tools for tracking and organizing ML and DL experiments. | Mai Nguyen, Lead for Data Analytics |
+| 11:30 am - 12:00 pm | 3.3 Experiment Tracking We will cover tools for tracking and organizing ML and DL experiments. | Mai Nguyen |
 | 12:00 pm - 1:30 pm | Lunch & Group Photo | |
 | 1:30 pm - 2:15 pm | 3.4 Deep Learning Layers and Architectures Overview of deep learning concepts, including layers, architectures, applications, and libraries. | Mai Nguyen |
 | 2:15 pm - 3:45 pm | 3.5 Deep Learning Transfer Learning Tutorial and hands-on exercises on the use of transfer learning and fine-tuning for efficient training of deep learning models. | Mai Nguyen |
