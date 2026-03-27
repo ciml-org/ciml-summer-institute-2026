@@ -38,8 +38,8 @@ Agenda is subject to change. Times listed below are in Pacific.
 
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
-| 9:00 am - 9:30 am | 1.1. Welcome & Orientation | Cindy Wong, Events Specialist; Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
-| 9:30 am – 10:00 am | 1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
+| 9:00 am - 9:30 am | 1.1. Welcome & Orientation | Cindy Wong, Events Specialist; Mary Thomas |
+| 9:30 am – 10:00 am | 1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal | Mary Thomas |
 
 [Back to Top](#top)
 
@@ -50,13 +50,13 @@ Agenda is subject to change. Times listed below are in Pacific.
 | 8:00 - 8:30 am | Light Breakfast & Check-in | |
 | 8:30 - 9:30 am | 2.1 Welcome and Introductions | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
 | 9:30 am - 9:45 am | Break | |
-| 9:45 am - 10:45 am | 2.2 Parallel Computing Concepts We will cover supercomputer architectures, the differences between threads and processes, implementations of parallelism (e.g., OpenMP and MPI), strong and weak scaling, limitations on scalability (Amdahl's and Gustafson's Laws) and benchmarking. | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
-| 10:45 am - 11:45 am | 2.3 Getting Started with Batch Job Scheduling Batch job schedulers are used to manage and fairly distribute the shared resources of high-performance computing (HPC) systems. Learning how to interact with them and compose your work into batch jobs is essential to becoming an effective HPC user. | Marty Kandes, Computational and Data Science Research Specialist |
+| 9:45 am - 10:45 am | 2.2 Parallel Computing Concepts We will cover supercomputer architectures, the differences between threads and processes, implementations of parallelism (e.g., OpenMP and MPI), strong and weak scaling, limitations on scalability (Amdahl's and Gustafson's Laws) and benchmarking. | Mary Thomas |
+| 10:45 am - 11:45 am | 2.3 Getting Started with Batch Job Scheduling Batch job schedulers are used to manage and fairly distribute the shared resources of high-performance computing (HPC) systems. Learning how to interact with them and compose your work into batch jobs is essential to becoming an effective HPC user. | Marty Kandes |
 | 11:45 am - 1:00 pm | Lunch Break | |
-| 1:00 pm - 2:15 pm | 2.4 Data Management and File Systems Managing data efficiently on a supercomputer is important from both users' and system's perspectives. We will cover a few basic data management techniques and I/O best practices in the context of the Expanse system at SDSC. | Marty Kandes, Computational and Data Science Research Specialist |
-| 2:15 pm - 3:45 pm | 2.5 GPU Computing - Hardware architecture and software infrastructure Brief overview of the massively parallel GPU architecture that enables large-scale deep learning applications, access and use of GPUs on SDSC Expanse for ML applications | Andreas Goetz, Research Scientist & Principal Investigator |
+| 1:00 pm - 2:15 pm | 2.4 Data Management and File Systems Managing data efficiently on a supercomputer is important from both users' and system's perspectives. We will cover a few basic data management techniques and I/O best practices in the context of the Expanse system at SDSC. | Marty Kandes |
+| 2:15 pm - 3:45 pm | 2.5 GPU Computing - Hardware architecture and software infrastructure Brief overview of the massively parallel GPU architecture that enables large-scale deep learning applications, access and use of GPUs on SDSC Expanse for ML applications | Andreas Goetz |
 | 3:45 pm - 4:00 pm | Break | |
-| 4:00 pm - 5:30 pm | 2.6 Software Containers for Scientific and High-Performance Computing Singularity is an open-source container engine designed to bring operating system-level virtualization to scientific and high-performance computing. With Singularity you can package complex computational workflows --- software applications, libraries, and data --- in a simple, portable, and reproducible way, which can then be run almost anywhere. | Marty Kandes, Computational and Data Science Research Specialist |
+| 4:00 pm - 5:30 pm | 2.6 Software Containers for Scientific and High-Performance Computing Singularity is an open-source container engine designed to bring operating system-level virtualization to scientific and high-performance computing. With Singularity you can package complex computational workflows --- software applications, libraries, and data --- in a simple, portable, and reproducible way, which can then be run almost anywhere. | Marty Kandes |
 | 5:30 PM – 5:45 PM | Q&A, Wrap-up | |
 
 [Back to Top](#top)
@@ -66,15 +66,15 @@ Agenda is subject to change. Times listed below are in Pacific.
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
 | 8:00 am - 8:30 am | Light Breakfast | |
-| 8:30 am - 10:00 am | 3.1 Introduction to Neural Networks and Convolution Neural Networks An overview of the main concepts of neural networks and feature discovery; the basic convolution neural network for digit recognition | Paul Rodriguez, Computational Data Scientist |
+| 8:30 am - 10:00 am | 3.1 Introduction to Neural Networks and Convolution Neural Networks An overview of the main concepts of neural networks and feature discovery; the basic convolution neural network for digit recognition | Paul Rodriguez |
 | 10:00 am - 10:15 am | Break | |
-| 10:15 am - 11:30 am | 3.2 Practical Guidelines for Training Deep Learning on HPC Guidelines on running deep networks on Expanse, such as using notebooks, and batch jobs; also some discussion of multinode execution. | Paul Rodriguez, Computational Data Scientist |
+| 10:15 am - 11:30 am | 3.2 Practical Guidelines for Training Deep Learning on HPC Guidelines on running deep networks on Expanse, such as using notebooks, and batch jobs; also some discussion of multinode execution. | Paul Rodriguez |
 | 11:30 am - 12:00 pm | 3.3 Experiment Tracking We will cover tools for tracking and organizing ML and DL experiments. | Mai Nguyen, Lead for Data Analytics |
 | 12:00 pm - 1:30 pm | Lunch & Group Photo | |
-| 1:30 pm - 2:15 pm | 3.4 Deep Learning Layers and Architectures Overview of deep learning concepts, including layers, architectures, applications, and libraries. | Mai Nguyen, Lead for Data Analytics |
-| 2:15 pm - 3:45 pm | 3.5 Deep Learning Transfer Learning Tutorial and hands-on exercises on the use of transfer learning and fine-tuning for efficient training of deep learning models. | Mai Nguyen, Lead for Data Analytics |
+| 1:30 pm - 2:15 pm | 3.4 Deep Learning Layers and Architectures Overview of deep learning concepts, including layers, architectures, applications, and libraries. | Mai Nguyen |
+| 2:15 pm - 3:45 pm | 3.5 Deep Learning Transfer Learning Tutorial and hands-on exercises on the use of transfer learning and fine-tuning for efficient training of deep learning models. | Mai Nguyen |
 | 3:45 pm - 4:00 pm | Break | |
-| 4:00 pm - 5:30 pm | 3.6 Deep Learning – Special Connections and Transformers The architecture of many networks use paths and connections in flexible ways; we will review gate, skip, and residual connections and get some intuition about transformers. | Paul Rodriguez, Computational Data Scientist |
+| 4:00 pm - 5:30 pm | 3.6 Deep Learning – Special Connections and Transformers The architecture of many networks use paths and connections in flexible ways; we will review gate, skip, and residual connections and get some intuition about transformers. | Paul Rodriguez |
 
 [Back to Top](#top)
 
@@ -83,17 +83,17 @@ Agenda is subject to change. Times listed below are in Pacific.
 | Time | Topic Title | Speaker(s) |
 |---|---|---|
 | 8:00 am - 8:30 am | Light Breakfast | |
-| 8:30 am– 10:00 am | 4.1 CONDA Environments and Jupyter Notebook on Expanse Set up reproducible and transferable software environments and scale up calculations to large datasets using parallel computing. | Marty Kandes, Computational and Data Science Research Specialist |
+| 8:30 am– 10:00 am | 4.1 CONDA Environments and Jupyter Notebook on Expanse Set up reproducible and transferable software environments and scale up calculations to large datasets using parallel computing. | Marty Kandes |
 | 10:00 am – 10:15 am | Break | |
-| 10:15 am - 11:00 am | 4.2 Spark Introduction to performing machine learning at scale, with hands-on exercises using Spark. | Mai Nguyen, Lead for Data Analytics |
-| 11:00 am - 11:45 am | 4.3 Tools for Scaling Overview of tools to distribute and parallelize processes. | Paul Rodriguez, Computational Data Scientist |
+| 10:15 am - 11:00 am | 4.2 Spark Introduction to performing machine learning at scale, with hands-on exercises using Spark. | Mai Nguyen |
+| 11:00 am - 11:45 am | 4.3 Tools for Scaling Overview of tools to distribute and parallelize processes. | Paul Rodriguez |
 | 11:45 am - 12:15 pm | SDSC Data Center Tour | |
 | 12:15 pm - 1:45 pm | Lunch | |
 | 1:45 pm - 3:00 pm | 4.4 LLM Overview Introduction to Large Language Models and how they can be used to support research. | Mai Nguyen, Paul Rodriguez, Mary Thomas |
 | 3:00 pm - 3:15 pm | Break | |
 | 3:15 pm - 4:45 pm | 4.4 LLM Overview - Continued | Mai Nguyen and Paul Rodriguez |
 | 4:45 pm - 5:15 pm | NAIRR Introduction | Mary Thomas |
-| 5:15 pm - 5:30 pm | Closing Remarks | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute |
+| 5:15 pm - 5:30 pm | Closing Remarks | Mary Thomas |
 
 [Back to Top](#top)
 
