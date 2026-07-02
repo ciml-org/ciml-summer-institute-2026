@@ -1,6 +1,6 @@
 # Exercise 9: The `git pull` command
 
-To update your copy of the GitHub repository, navigate to the `~/ciml-summer-institute-2026` direcotry and then run the `git pull` command. This will download all of the latest update from your instructors. 
+To update your copy of the GitHub repository, navigate to the `~/ciml-summer-institute-2026` directory and then run the `git pull` command. This will download all of the latest update from your instructors. 
 
 *Command*
 ```
